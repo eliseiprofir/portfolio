@@ -22,7 +22,7 @@ def decimal_to_binary(num_dec):
     else:
         num_bi = num_bi.zfill((num_bi_4+1) * 4)
     
-    # Making spacing after every fourth character
+    # Making spaces after every fourth character
     num_bi_f = ""
     for i in range(len(num_bi)):
         num_bi_f += num_bi[i]
