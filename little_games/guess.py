@@ -11,7 +11,7 @@ def user_guess(highest):
             print('Sorry, guess again. Too low.')
         elif guess > random_number:
             print('Sorry, guess again. Too high.')
-    print(f"Yay, congrats. You have guessed the number {random_number} correctly in {tries} tries.\n")
+    print(f"\nYay, congrats. You have guessed the number {random_number} correctly in {tries} tries.\n")
 
 
 def computer_guess(highest):
@@ -30,11 +30,11 @@ def computer_guess(highest):
             high = guess - 1
         elif feedback == 'L':
             low = guess + 1
-    print(f'Yay! The computer guessed your number {guess} correctly in {tries} tries.')
+    print(f'\nYay! The computer guessed your number {guess} correctly in {tries} tries.')
 
 
 def main():
-    print("\nHello to my little guessing program.")
+    print("\nHello to my little GUESSing game.\n")
     while True:
         choice = input("Choose from below:\n[C] if you want the computer to guess your number\n[U] if you want to guess the computer's number.\nYour choice: ").upper()
         if choice == 'C':
@@ -45,7 +45,7 @@ def main():
             highest_number = int(input("\nEnter the number up to which you want to guess the computer's number: "))
             user_guess(highest_number)
             break
-    print("Thank you for using my program! :)\n")
+    print("\nThank you for playing my GUESSing game! :)\n")
 
 
 if __name__ == "__main__":

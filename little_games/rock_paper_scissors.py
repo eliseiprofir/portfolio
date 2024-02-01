@@ -31,8 +31,6 @@ def game(rounds):
     else:
         print(f"Wow! It's a tie {player_score}-{computer_score}.")
 
-    print("Thank you for using my game! Cheers!\n")
-
 
 def player_win(player, computer):
     if (player == 'R' and computer == 'S') or (player == 'S' and computer == 'P') \
@@ -41,7 +39,7 @@ def player_win(player, computer):
 
 
 def main():
-    print("\nHello to ROCK-PAPER-SCISSORS game.")
+    print("\nHello to my ROCK-PAPER-SCISSORS game.")
     while True:
         choice = input("\nHow many games do you want to play? 1, 3 or 5: ")
         if choice in ['1', '3', '5']:
@@ -50,6 +48,7 @@ def main():
         else:
             print("Not a valid choice. Try again!")
     game(choice)
+    print("\nThank you for using my ROCK-PAPER-SCISSORS game! Cheers!\n")
 
 if __name__ == "__main__":
     main()
