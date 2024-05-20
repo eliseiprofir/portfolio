@@ -5,7 +5,7 @@ def define(data, word):
         return data[word]
 
 
-def main():
+def main(define):
     file = open('english_dictionary.json')
     data = json.load(file)
     word = input("Enter a word: ").lower()
@@ -19,4 +19,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main(define)

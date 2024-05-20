@@ -1,18 +1,18 @@
 import random
 
 # List of words to guess
-words = ['python', 'java', 'kotlin', 'javascript', 'ruby', 'swift']
+words: list[str] = ['python', 'java', 'kotlin', 'javascript', 'ruby', 'swift']
 
 # Random choose a word from the list
-chosen_word = 'javascript'
-word_display = ['_' for _ in chosen_word] # Create a list of underscores
-attempts = 8 # Number of allowed attempts
+chosen_word: str = random.sample(words)
+word_display: list[str] = ['_' for _ in chosen_word]  # Create a list of underscores
+attempts: int = 8  # Number of allowed attempts
 
 print("Welcome to Hangman!")
 
 while attempts > 0 and '_' in word_display:
     print("\n" + ' '.join(word_display))
-    guess = input("Guess a letter: ").lower()
+    guess: str = input("Guess a letter: ").lower()
     if guess in chosen_word:
         for index, letter in enumerate(chosen_word):
             if letter == guess:

@@ -2,12 +2,12 @@ import random
 
 
 class Hat:
-    def __init__(self, **balls) -> None:
+    def __init__(self, **balls: dict[str:int]) -> None:
         self.contents: list = []
         for color, count in balls.items():
             self.contents.extend([color] * count)
 
-    def draw(self, num_balls) -> list:
+    def draw(self, num_balls: int) -> list:
         if num_balls > len(self.contents):
             drawn_balls: list[str] = self.contents[:]
             self.contents: list = []

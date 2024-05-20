@@ -1,12 +1,12 @@
 class Category:
-    def __init__(self, name) -> None:
+    def __init__(self, name: str) -> None:
         self.name: str = name
         self.ledger: list[dict[str: int, str: str]] = []
 
-    def deposit(self, amount, description="") -> None:
+    def deposit(self, amount: int | float, description: str = "") -> None:
         self.ledger.append({"amount": amount, "description": description})
 
-    def withdraw(self, amount, description="") -> bool:
+    def withdraw(self, amount: int | float, description: str = "") -> bool:
         if self.check_funds(amount):
             self.ledger.append({"amount": -amount, "description": description})
             return True
@@ -18,10 +18,10 @@ class Category:
             balance += entry["amount"]
         return balance
 
-    def check_funds(self, amount) -> bool:
+    def check_funds(self, amount: int) -> bool:
         return amount <= self.get_balance()
 
-    def transfer(self, amount, category) -> bool:
+    def transfer(self, amount: int, category: 'Category') -> bool:
         if self.check_funds(amount):
             self.withdraw(amount, f"Transfer to {category.name}")
             category.deposit(amount, f"Transfer from {self.name}")
@@ -29,14 +29,14 @@ class Category:
         return False
 
     def __str__(self) -> str:
-        # SECOND METHOD
-        title = f"{self.name:*^30}\n"
-        items = ""
+        # SECOND BETTER METHOD
+        title: str = f"{self.name:*^30}\n"
+        items: str = ""
         for item in self.ledger:
-            desc = item['description'][:23]
-            amt = f"{item['amount']:.2f}"
+            desc: str = item['description'][:23]
+            amt: str = f"{item['amount']:.2f}"
             items += f"{desc:<23}{amt:>7}\n"
-        total = f"Total: {self.get_balance():.2f}"
+        total: str = f"Total: {self.get_balance():.2f}"
         return title + items + total + '\n'
 
         # FIRST METHOD
@@ -96,7 +96,7 @@ def create_spend_chart(categories: list[Category]) -> str:
     return title + chart.rstrip('\n')
 
 
-food = Category("Food")
+food: Category = Category("Food")
 food.deposit(1000, "deposit")
 food.withdraw(10.15, "groceries")
 food.withdraw(15.89, "restaurant and more food for dessert")

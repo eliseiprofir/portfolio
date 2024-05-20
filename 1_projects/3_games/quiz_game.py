@@ -1,4 +1,4 @@
-questions = [
+questions: list[dict[str, str | list]] = [
     {
         "prompt": "What is the capital of France?",
         "options": ["A. Paris", "B. London", "C. Berlin", "D. Madrid"],
@@ -21,8 +21,9 @@ questions = [
     }
 ]
 
-def run_quiz(questions):
-    score = 0
+
+def run_quiz(questions: list[dict[str, str | list]]):
+    score: int = 0
     for question in questions:
         print(question["prompt"])
         for option in question["options"]:
@@ -32,8 +33,8 @@ def run_quiz(questions):
             print("Correct!\n")
             score += 1
         else:
-            print(f"Wrong! The correct answer was {question["answer"]}\n"
-)
+            print(f"Wrong! The correct answer was {question["answer"]}\n")
     print(f"You got {score} out of {len(questions)} questions correct.\n")
+
 
 run_quiz(questions)
