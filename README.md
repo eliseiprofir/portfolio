@@ -5,11 +5,22 @@ Python Developer
 -----------------------
 
 🤩 Passionate about programming 🐍 Love Python 📚 In continuous learning
+* 🌍 I'm based in Brasov, Romania
+* 🤝 I'm open to work remote as Python Programmer / Developer and collaborate on Python Projects
 
-* 🌍  I'm based in Brasov, Romania
-* ✉️  You can contact me at [pro.elisei@gmail.com](mailto:pro.elisei@gmail.com)
-* 🧠  I'm learning Python and SQL
-* 🤝  I'm open to collaborating on Python Projects
+### Contact
+* ✉️ Write me at [pro.elisei@gmail.com](mailto:pro.elisei@gmail.com)
+* 🙋🏻‍♂️ Connect with me on LinkedIn: [linkedin.com/in/eliseiprofir](https://www.linkedin.com/in/eliseiprofir/)
+
+### Certificates
+* 📜 [CS50: Introduction to Computer Science](https://certificates.cs50.io/e9c0eebe-03cb-45cd-909c-69323cbdc705) – Harvard University
+* 📜 [CS50's Introduction to Programming with Python](https://certificates.cs50.io/63506548-db19-42b9-80de-3c045636d587.pdf) – Harvard University
+* 📜 [Scientific Computing with Python](https://www.freecodecamp.org/certification/proelisei/scientific-computing-with-python-v7) – freeCodeCamp
+* 📜 [Clean Code](https://www.udemy.com/certificate/UC-6162c1c2-ec76-4224-a9fc-2145533e0a83/) – AcadeMind | Udemy
+* 📜 [Python Essentials 1](https://www.credly.com/badges/bab43239-4edc-4903-9dbb-5464026a799e/print) – Cisco Networking Academy
+* 📜 [The Complete Python Developer](https://www.udemy.com/certificate/UC-ff45b67c-ed1d-4484-8ba7-ed8772574685/) – Zero To Mastery ([link](https://zerotomastery.io/)) | Udemy
+* 📜 (in progress) CS50's Introduction to Databases with SQL
+* 📜 (in progress) CS50's Introduction to Cybersecurity
 
 ### Skills
 
