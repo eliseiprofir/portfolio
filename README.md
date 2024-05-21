@@ -1,10 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elisei PROFIR
 =====================================================================================================================================
+#### 🤩 Passionate about programming 🐍 Love Python 📚 In continuous learning
 
-Python Developer
+I'm becoming a Python Developer
 -----------------------
-
-🤩 Passionate about programming 🐍 Love Python 📚 In continuous learning
 * 🌍 I'm based in Brasov, Romania
 * 🤝 I'm open to work remote as Python Programmer / Developer and collaborate on Python Projects
 
@@ -12,7 +11,7 @@ Python Developer
 * ✉️ Write me at [pro.elisei@gmail.com](mailto:pro.elisei@gmail.com)
 * 🙋🏻‍♂️ Connect with me on LinkedIn: [linkedin.com/in/eliseiprofir](https://www.linkedin.com/in/eliseiprofir/)
 
-### Certificates
+### Certifications
 * 📜 [CS50: Introduction to Computer Science](https://certificates.cs50.io/e9c0eebe-03cb-45cd-909c-69323cbdc705) – Harvard University
 * 📜 [CS50's Introduction to Programming with Python](https://certificates.cs50.io/63506548-db19-42b9-80de-3c045636d587.pdf) – Harvard University
 * 📜 [Scientific Computing with Python](https://www.freecodecamp.org/certification/proelisei/scientific-computing-with-python-v7) – freeCodeCamp
