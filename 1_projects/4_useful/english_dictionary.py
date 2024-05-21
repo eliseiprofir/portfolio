@@ -1,11 +1,12 @@
 import json
 
-def define(data, word):
+
+def define(data, word) -> str:
     if word in data:
         return data[word]
 
 
-def main(define):
+def main(define) -> None:
     file = open('english_dictionary.json')
     data = json.load(file)
     word = input("Enter a word: ").lower()

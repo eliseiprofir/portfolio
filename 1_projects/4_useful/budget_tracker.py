@@ -26,7 +26,7 @@ def show_budget_details(budget: float, expenses: list[dict[str, str | int]]) -> 
     print(f"Remaining Budget: {get_balance(budget, expenses)}")
 
 
-def load_budget_data(filepath) -> tuple[int, list[dict[str, int]]]:
+def load_budget_data(filepath: str) -> tuple[int, list[dict[str, int]]]:
     try:
         with open(filepath, 'r') as file:
             data = json.load(file)

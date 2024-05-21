@@ -8,10 +8,12 @@ def main():
     while True:
         choice = input("\nDo you want to download:\n[v] just a video\n[p] an entire playlist\n\nYour answer ('v' or 'p'): ").lower()
         if choice == 'v':
-            download_video()
+            link: str = input("\nEnter the video link: ")
+            download_video(link)
             break
         elif choice == 'p':
-            download_playlist()
+            link: str = input("\nEnter the playlist link: ")
+            download_playlist(link)
             break
         else:
             print("ERROR: Not a valid choice. Try again.")
@@ -19,9 +21,8 @@ def main():
     input("\nThank you for using my program!\nSee you next time!\nPress enter to close the program.\nBye! :) ")
 
 
-def download_video():
+def download_video(link: str) -> None:
     while True:
-        link = input("\nEnter the video link: ")
         try:
             video = YouTube(link)
             video = video.streams.get_highest_resolution()
@@ -32,9 +33,8 @@ def download_video():
     print("\nThe video has been downloaded successfully.")
 
 
-def download_playlist():
+def download_playlist(link: str) -> None:
     while True:
-        link = input("\nEnter the playlist link: ")
         try:
             playlist = Playlist(link)
             playlist_len = len(playlist.video_urls)

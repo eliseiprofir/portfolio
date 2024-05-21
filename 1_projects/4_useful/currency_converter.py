@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 
+
 def get_currency(in_currency, to_currency):
     url = f'https://www.x-rates.com/calculator/?from={in_currency}&to={to_currency}&amount=1'
     content = requests.get(url).text
