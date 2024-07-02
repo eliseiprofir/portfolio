@@ -14,11 +14,11 @@ I'm becoming a Python Developer
 ### Certifications
 * 📜 [CS50: Introduction to Computer Science](https://certificates.cs50.io/e9c0eebe-03cb-45cd-909c-69323cbdc705) – Harvard University
 * 📜 [CS50's Introduction to Programming with Python](https://certificates.cs50.io/63506548-db19-42b9-80de-3c045636d587.pdf) – Harvard University
+* 📜 [CS50's Introduction to Databases with SQL](https://certificates.cs50.io/91539629-c258-4f6e-b4eb-a1c1b8120b1d.pdf) – Harvard University
 * 📜 [Scientific Computing with Python](https://www.freecodecamp.org/certification/proelisei/scientific-computing-with-python-v7) – freeCodeCamp
 * 📜 [Clean Code](https://www.udemy.com/certificate/UC-6162c1c2-ec76-4224-a9fc-2145533e0a83/) – AcadeMind | Udemy
 * 📜 [Python Essentials 1](https://www.credly.com/badges/bab43239-4edc-4903-9dbb-5464026a799e/print) – Cisco Networking Academy
 * 📜 [The Complete Python Developer](https://www.udemy.com/certificate/UC-ff45b67c-ed1d-4484-8ba7-ed8772574685/) – Zero To Mastery ([link](https://zerotomastery.io/)) | Udemy
-* 📜 (in progress) CS50's Introduction to Databases with SQL
 * 📜 (in progress) CS50's Introduction to Cybersecurity
 
 ### Skills
