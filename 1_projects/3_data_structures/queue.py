@@ -36,6 +36,13 @@ class Queue:
     def show(self) -> deque[any]:
         return self.__items
 
+    def to_list(self) -> list[any]:
+        temp_queue = Queue(self.__items)
+        lst = []
+        while not temp_queue.is_empty():
+            lst.append(temp_queue.dequeue())
+        return lst
+
 
 if __name__ == "__main__":
     queue = Queue()
@@ -65,3 +72,4 @@ if __name__ == "__main__":
     print(f"Size - {queue.size()}")
     print(f"Contains 1 - {queue.contains(1)}")
     print(f"Contains 2 - {queue.contains(2)}")
+    print(f"To list - {queue.to_list()}")
