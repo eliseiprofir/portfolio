@@ -1,4 +1,4 @@
-def merge_sort(array: list[int]) -> None:
+def merge_sort(array: list[int]) -> list[int] | None:
     if len(array) <= 1:
         return
 
@@ -32,8 +32,10 @@ def merge_sort(array: list[int]) -> None:
         right_array_index += 1
         sorted_index += 1
 
+    return array
+
+
 if __name__ == '__main__':
     numbers: list = [4, 10, 6, 14, 2, 1, 8, 5]
     print('Unsorted array:', numbers)
-    merge_sort(numbers)
-    print('Sorted array:', numbers)
+    print('Sorted array:', merge_sort(numbers))
