@@ -1,15 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elisei PROFIR
 =====================================================================================================================================
 #### 🤩 Passionate about programming 🐍 Love Python 📚 In continuous learning
-
-I'm becoming a Python Developer
------------------------
 * 🌍 I'm based in Brasov, Romania
 * 🤝 I'm open to work remote as Python Developer / Backend Developer / Software Developer and collaborate on Python Projects
 
 ## 📄 [**Here is my CV**](https://github.com/eliseiprofir/portfolio/blob/main/2_cv/CV_Elisei_PROFIR.pdf) and my project:
 
-### Budget Management System App 
+### 💰 Budget Management System App 
 
 A comprehensive full-stack application for managing personal and family finances. The application uses Django and Django REST Framework for the backend, Streamlit for a fast, interactive frontend, and is fully containerized with Docker. It features JWT authentication, asynchronous task processing with Django Q, real-time balance analytics, and is deployed in production using Railway, Neon (PostgreSQL), and Upstash (Redis).
 
