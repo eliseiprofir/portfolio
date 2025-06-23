@@ -31,18 +31,18 @@ Main features:
 - Frontend / Streamlit App: https://app.elisei.pro
 - Project's GitHub Repository: https://github.com/eliseiprofir/budget
 
-### Certifications
+## Certifications
 * 📜 [CS50x: Introduction to Computer Science](https://certificates.cs50.io/e9c0eebe-03cb-45cd-909c-69323cbdc705) – Harvard University
 * 📜 [CS50's Introduction to Programming with Python](https://certificates.cs50.io/63506548-db19-42b9-80de-3c045636d587.pdf) – Harvard University
 * 📜 [CS50's Introduction to Databases with SQL](https://certificates.cs50.io/91539629-c258-4f6e-b4eb-a1c1b8120b1d.pdf) – Harvard University
 * 📜 [Scientific Computing with Python](https://www.freecodecamp.org/certification/proelisei/scientific-computing-with-python-v7) – freeCodeCamp
 * 📜 [Clean Code](https://www.udemy.com/certificate/UC-6162c1c2-ec76-4224-a9fc-2145533e0a83/) – AcadeMind | Udemy
 
-### Contact
+## Contact
 * ✉️ Write me at [pro.elisei@gmail.com](mailto:pro.elisei@gmail.com)
 * 🙋🏻‍♂️ Connect with me on LinkedIn: [linkedin.com/in/eliseiprofir](https://www.linkedin.com/in/eliseiprofir/)
 
-### Socials
+## Socials
 
 <p align="left">
 
@@ -101,7 +101,7 @@ Main features:
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
