@@ -1,10 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elisei PROFIR
 =====================================================================================================================================
-#### 🤩 Passionate about programming 🐍 Love Python 📚 In continuous learning 🤝🏻 Open for work
+#### 🤩 Passionate about programming 🐍 Love Python 📚 In continuous learning 🤝🏻 Open to work
 * 🌍 I'm based in Brasov, Romania
 * 🤝 I'm open to work remote as Python Developer / Backend Developer / Software Developer and collaborate on Python Projects
+#### About me
+I've always had a structured, mathematical way of thinking and a passion for building things that work well and make life easier. Around three years ago, while working in digital marketing, I stumbled upon programming—and it instantly clicked.
 
-## 📄 [**Here is my CV**](https://github.com/eliseiprofir/eliseiprofir/blob/main/2_cv/CV_Elisei_PROFIR.pdf) and [my project](https://github.com/eliseiprofir/budget):
+I realized that software development would allow me to use my natural strengths to design and build digital "machines"—systems and tools that bring real value to people’s lives. That’s when I decided to dive into learning programming and developing the skills needed to transition into tech.
+
+So here I am...
+
+## 📄 Here is [my CV](https://github.com/eliseiprofir/eliseiprofir/blob/main/2_cv/CV_Elisei_PROFIR.pdf) and [my project](https://github.com/eliseiprofir/budget):
 
 ### 💰 Budget Management System App 
 
