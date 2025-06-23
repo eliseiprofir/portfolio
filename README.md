@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍 I'm based in Brasov, Romania
 * 🤝 I'm open to work remote as Python Developer / Backend Developer / Software Developer and collaborate on Python Projects
 #### About me
-I've always had a structured, mathematical way of thinking and a passion for building things that work well and make life easier. Around three years ago, while working in digital marketing, I stumbled upon programming—and it instantly clicked.
+I've always had a structured, mathematical way of thinking and a passion for building, automating, and optimizing things that work well and make life easier. Around three years ago, while working in digital marketing, I stumbled upon programming—and it instantly clicked.
 
 I realized that software development would allow me to use my natural strengths to design and build digital "machines"—systems and tools that bring real value to people’s lives. That’s when I decided to dive into learning programming and developing the skills needed to transition into tech. I'm currently looking for a role in backend web development, ideally working with Python. If you're hiring, let's chat!
 
