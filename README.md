@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍 I'm based in Brasov, Romania
 * 🤝 I'm open to work remote as Python Developer / Backend Developer / Software Developer and collaborate on Python Projects
 
-## 📄 [**Here is my CV**](https://github.com/eliseiprofir/eliseiprofir/blob/main/2_cv/CV_Elisei_PROFIR.pdf) and my project:
+## 📄 [**Here is my CV**](https://github.com/eliseiprofir/eliseiprofir/blob/main/2_cv/CV_Elisei_PROFIR.pdf) and [my project](https://github.com/eliseiprofir/budget):
 
 ### 💰 Budget Management System App 
 
